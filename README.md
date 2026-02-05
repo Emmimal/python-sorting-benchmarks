@@ -94,6 +94,3 @@ Open an issue or leave a comment on the blog post.
 — **Emmimal Alexander**  
 [@Emmimal on GitHub]
 
-### File: `sorts/__init__.py`
-```python
-# Empty file to make 'sorts' a package
