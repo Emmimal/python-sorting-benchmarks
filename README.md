@@ -20,7 +20,7 @@ The goal is to show why textbook Big-O analysis doesn't tell the full story in P
 ## Repository Structure
 python-sorting-benchmarks/
 ├── sorts/
-│   ├── __init__.py
+│   ├── init.py
 │   ├── bubble_sort.py
 │   ├── selection_sort.py
 │   ├── insertion_sort.py
