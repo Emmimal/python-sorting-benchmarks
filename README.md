@@ -18,9 +18,11 @@ The goal is to show why textbook Big-O analysis doesn't tell the full story in P
 - Python's built-in sort is untouchable — use it always in production.
 
 ## Repository Structure
+Repository Structure
+
 python-sorting-benchmarks/
 ├── sorts/
-│   ├── init.py
+│   ├── __init__.py
 │   ├── bubble_sort.py
 │   ├── selection_sort.py
 │   ├── insertion_sort.py
@@ -32,6 +34,7 @@ python-sorting-benchmarks/
 ├── results_example.csv    # Sample output from my machine
 ├── README.md              # This file
 └── requirements.txt       # Empty — uses only stdlib
+
 
 ## How to Run the Benchmarks
 
